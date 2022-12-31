@@ -1,0 +1,12 @@
+{
+  "name": "gcbridge",
+  "version": "1.0.0",
+  "description": "the meower gc bridge",
+  "main": "index.js",
+  "scripts": {
+    "bot": ""
+    "test": "console.log(\"epic\");"
+  },
+  "author": "AXEstudios",
+  "license": "ISC"
+}
